@@ -4,9 +4,9 @@
 * [oreDataManager](#oredatamanager)
 ### getOreData
 `getOreData(): oreData`
+> ワールドに保存されたoreDataを取得します。
 * **Return**
 	* *oreData*
-> ワールドに保存されたoreDataを取得します。
 ### searchOreData
 `searchOreData(location): {time: number, ore: string}`
 `searchOreData(): uuid.v4[]`
